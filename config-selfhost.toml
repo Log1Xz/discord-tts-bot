@@ -1,0 +1,25 @@
+[Main]
+log_level = 'info'
+#tts_service = instance of https://github.com/GnomedDev/tts-service
+#translation_token = token from https://deepl.com/
+#main_server_invite = 'https://discord.gg/example'
+#announcements_channel = id here
+#invite_channel = id here
+#main_server = id here 
+#ofs_role = = id here
+#token = 
+
+[PostgreSQL-Info]
+#database = 
+#password = 
+#host = 
+#user = 
+
+[Webhook-Info]
+# Each URL will look like 'https://discord.com/api/webhooks/830137192985788457/nCrFLCz-2tJRFUoBrFx1nN9cvUZdhdW0860ek0zNosf0DfCaMTbyM_oFdf9RidC_mcPp'
+#logs = 
+#errors = 
+#dm_logs = 
+#servers = 
+#analytics = 
+#suggestions = 
